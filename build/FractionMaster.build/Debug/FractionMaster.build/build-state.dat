@@ -1,0 +1,226 @@
+TFractionMaster
+v7
+r0
+t318037549.533328
+cCheck dependencies
+cProcessInfoPlistFile /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Info.plist FractionMaster-Info.plist
+cCopyStringsFile /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch.gch FractionMaster_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/main.o /Users/will/ProgrammingFun/Objective-C/FractionMaster/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/FractionMasterAppDelegate.o /Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/problemGenerator.o /Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/MacOS/FractionMaster normal x86_64
+cTouch /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/InfoPlist.strings
+c000000004D444CC5000000000000002D
+t1296321733
+s45
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/MainMenu.xib
+c000000004D449FC5000000000001151F
+t1296342981
+s70943
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.h
+c000000004D444CC5000000000000014A
+t1296321733
+s330
+i<Cocoa/Cocoa.h>
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.m
+c000000004D449C0E0000000000000186
+t1296342030
+s390
+i"FractionMasterAppDelegate.h"
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMaster_Prefix.pch
+c000000004D444CC5000000000000009F
+t1296321733
+s159
+i<Cocoa/Cocoa.h>
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app
+t1296342982
+s102
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Info.plist
+t1296322966
+s907
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/MacOS/FractionMaster
+t1296342982
+s16888
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/PkgInfo
+t1296322966
+s8
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1296322967
+s92
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Resources/English.lproj/MainMenu.nib
+t1296342982
+s12385
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/FractionMaster.LinkFileList
+c000000004D44519600000000000001BC
+t1296322966
+s444
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/FractionMasterAppDelegate.o
+t1296342338
+s21304
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/main.o
+t1296322970
+s5016
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/problemGenerator.o
+t1296342982
+s18180
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/main.m
+c000000004D444CC500000000000000FE
+t1296321733
+s254
+i<Cocoa/Cocoa.h>
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.h
+c000000004D449ED800000000000001FB
+t1296342744
+s507
+i<Cocoa/Cocoa.h>
+
+N/Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.m
+c000000004D449FC600000000000003F9
+t1296342982
+s1017
+i"problemGenerator.h"
+
+N/var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch.gch
+t1296322970
+s54306576
+
+NFractionMaster-Info.plist
+c000000004D444CC500000000000003EA
+t1296321733
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318037549#318037549#0(0"0(0#1#0"8668376128#0"0#
+
+CCompileC build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/FractionMasterAppDelegate.o /Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318035137.853527
+e318035138.107935
+r1
+xCompileC
+xbuild/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/FractionMasterAppDelegate.o
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.m318035137#318035138#0(0"0(0#0#81"/Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.m8620978464#1797"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-generated-files.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-own-target-headers.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-all-target-headers.hmap -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-project-headers.hmap -F/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/include -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources/x86_64 -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources -include /var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch -c /Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMasterAppDelegate.m -o /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/FractionMasterAppDelegate.o0#
+
+CCompileC build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/main.o /Users/will/ProgrammingFun/Objective-C/FractionMaster/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318015770.202414
+e318015770.387512
+r1
+xCompileC
+xbuild/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/main.o
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/will/ProgrammingFun/Objective-C/FractionMaster/main.m318015770#318015770#0(0"0(0#0#60"/Users/will/ProgrammingFun/Objective-C/FractionMaster/main.m8651102144#1755"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-generated-files.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-own-target-headers.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-all-target-headers.hmap -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-project-headers.hmap -F/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/include -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources/x86_64 -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources -include /var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch -c /Users/will/ProgrammingFun/Objective-C/FractionMaster/main.m -o /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/problemGenerator.o /Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318035782.851917
+e318035782.947547
+r1
+xCompileC
+xbuild/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/problemGenerator.o
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.m318035782#318035782#0(0"0(0#0#72"/Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.m8669163168#1779"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-generated-files.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-own-target-headers.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-all-target-headers.hmap -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-project-headers.hmap -F/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/include -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources/x86_64 -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources -include /var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch -c /Users/will/ProgrammingFun/Objective-C/FractionMaster/problemGenerator.m -o /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/problemGenerator.o0#
+
+CCompileXIB /Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/MainMenu.xib
+s318035782.668046
+e318035782.851544
+r1
+xCompileXIB
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib318035782#318035782#0(0"0(0#0#80"/Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/MainMenu.xib8626483584#416"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Resources/English.lproj/MainMenu.nib /Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s318015766.932201
+e318015767.318767
+r1
+xCopyStringsFile
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings318015766#318015767#0(0"0(0#0#85"/Users/will/ProgrammingFun/Objective-C/FractionMaster/English.lproj/InfoPlist.strings8643357664#402"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Resources/English.lproj0#
+
+CLd /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/MacOS/FractionMaster normal x86_64
+s318035782.947624
+e318035782.977716
+r1
+xLd
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/MacOS/FractionMaster
+xnormal
+xx86_64
+lSLF07#2@119"Link /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/MacOS/FractionMaster318035782#318035782#0(0"0(0#0#0"8645036704#652"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug -F/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug -filelist /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/Objects-normal/x86_64/FractionMaster.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/MacOS/FractionMaster0#
+
+CProcessInfoPlistFile /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Info.plist FractionMaster-Info.plist
+s318015766.891493
+e318015766.932138
+r1
+xProcessInfoPlistFile
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Info.plist
+xFractionMaster-Info.plist
+lSLF07#2@33"Process FractionMaster-Info.plist318015766#318015766#0(0"0(0#0#79"/Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMaster-Info.plist8648764928#376"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    builtin-infoPlistUtility FractionMaster-Info.plist -genpkginfo /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch.gch FractionMaster_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318015767.388187
+e318015770.202219
+r1
+xProcessPCH
+x/var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch.gch
+xFractionMaster_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile FractionMaster_Prefix.pch318015767#318015770#0(0"0(0#0#79"/Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMaster_Prefix.pch8650923104#1639"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-generated-files.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-own-target-headers.hmap -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-all-target-headers.hmap -iquote /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/FractionMaster-project-headers.hmap -F/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/include -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources/x86_64 -I/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/FractionMaster.build/Debug/FractionMaster.build/DerivedSources -c /Users/will/ProgrammingFun/Objective-C/FractionMaster/FractionMaster_Prefix.pch -o /var/folders/T0/T0sKqsVNGi4S-Zwn6n1q9++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionMaster_Prefix-agkxwmkcqmunvedqzshyrumafrdn/FractionMaster_Prefix.pch.gch0#
+
+CTouch /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app
+s318035782.977790
+e318035782.979797
+r1
+xTouch
+x/Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app
+lSLF07#2@90"Touch /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app318035782#318035782#0(0"0(0#0#0"8638571904#168"    cd /Users/will/ProgrammingFun/Objective-C/FractionMaster    /usr/bin/touch -c /Users/will/ProgrammingFun/Objective-C/FractionMaster/build/Debug/FractionMaster.app0#
+
